@@ -26,7 +26,7 @@ The working set is formatted as a collection of json objects
                 "N"
             ]
         ]
-"id": 0
+        "id": 0
     }
 ```
 
