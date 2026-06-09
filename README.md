@@ -5,8 +5,8 @@ FON: a working set extracted from an entity linking   (EL) dataset and  augmente
 
 The working set is formatted as a collection of json objects
 ```json
-{
-  "name": "John Doe",
+```
+
+
 # Download FON
-'''
 The single file to download the entire data is [prompt_story.json](prompt_story.json).
