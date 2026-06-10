@@ -1,5 +1,5 @@
 # fon
-FON: a working set extracted from an entity linking   (EL) dataset and  augmented to support mentions in phonological representation to relieve memory-impaired named entity recognition (NER).
+FON: a working set extracted from an entity linking   (EL) dataset and  augmented to support mentions in phonological representation for relieving memory-impaired named entity recognition (NER).
 
 # What is FON?
 
