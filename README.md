@@ -33,5 +33,9 @@ The working set is formatted as a collection 3,559 json objects represented as f
 
 # Download FON
 The single file to download the entire data is [nephon.json](nephon.json).
+# Paper
+Details of data construction and performance analyses are available in our companion paper:
 
+- Avi Bleiweiss. *Relieving Memory Impaired Named Entity Recognition using Phonological Similarity of Mentions*. In BShalem, 2026.
+- 
 **Under Construction!**
