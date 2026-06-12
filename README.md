@@ -39,13 +39,14 @@ Details of data construction and performance analyses are available in our compa
 - Avi Bleiweiss. *Relieving Memory Impaired Named Entity Recognition using Phonological Similarity of Mentions*. In BShalem, 2026. 
 
 ### Citation
-     @techreport{bleiweiss-2024-bshalem,
-      title = "Commonsense Knowledge Transfer from Authored to Prompt-based Generated Short Stories",
+     @techreport{bleiweiss-2026-bshalem,
+      title = "Relieving Memory Impaired Named Entity Recognition using Phonological
+Similarity of Mentions",
       author = "Bleiweiss, Avi",
       institution = "BShalem",
-      number = "01",
-      month = feb,
-      year = "2024",
+      number = "02",
+      month =jun,
+      year = "2026",
       address = "online",
       note = "In: \url{https://www.aviitshakb.com/publications}"
     }
