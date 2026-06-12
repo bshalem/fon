@@ -36,6 +36,16 @@ The single file to download the entire data is [nephon.json](nephon.json).
 # Paper
 Details of data construction and performance analyses are available in our companion paper:
 
-- Avi Bleiweiss. *Relieving Memory Impaired Named Entity Recognition using Phonological Similarity of Mentions*. In BShalem, 2026.
-- 
-**Under Construction!**
+- Avi Bleiweiss. *Relieving Memory Impaired Named Entity Recognition using Phonological Similarity of Mentions*. In BShalem, 2026. 
+
+### Citation
+     @techreport{bleiweiss-2024-bshalem,
+      title = "Commonsense Knowledge Transfer from Authored to Prompt-based Generated Short Stories",
+      author = "Bleiweiss, Avi",
+      institution = "BShalem",
+      number = "01",
+      month = feb,
+      year = "2024",
+      address = "online",
+      note = "In: \url{https://www.aviitshakb.com/publications}"
+    }
