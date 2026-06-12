@@ -3,7 +3,7 @@ FON: a working set extracted from an entity linking   (EL) dataset and  augmente
 
 # What is FON?
 
-The working set is formatted as a collection 3,559 json objects represented as follows:
+The working set is formatted as a collection of 3,559 json objects represented as follows:
 ```json
 {
         "mention": "Robbie Coltrane",
