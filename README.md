@@ -32,6 +32,6 @@ The working set is formatted as a collection 3,559 json objects represented as f
 
 
 # Download FON
-The single file to download the entire data is [prompt_story.json](prompt_story.json).
+The single file to download the entire data is [nephon.json](nephon.json).
 
 **Under Construction!**
