@@ -37,7 +37,7 @@ The single file to download the entire data is [nephon.json](nephon.json).
 # Paper
 Details of data construction and performance analyses are available in our companion paper:
 
-- Avi Bleiweiss. *Relieving Memory Impaired Named Entity Recognition using Phonological Similarity of Mentions*. In BShalem, 2026. 
+- Avi Bleiweiss. *Relieving Memory-impaired Named Entity Recognition using Phonological Similarity of Mentions*. In BShalem, 2026. 
 
 ### Citation
      @techreport{bleiweiss-2026-bshalem,
